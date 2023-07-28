@@ -32,7 +32,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Deploy to Codepush
-        uses: NishanthShankar/codepush-action@master
+        uses: sahilleap/codepush-action@master
         with:
           args: release-react -d Production
         env:
