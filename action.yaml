@@ -1,4 +1,4 @@
-name: 'GitHub Action for Codepush'
+name: 'GitHub Action for Appcenter Codepush'
 author: 'Sahil Singh'
 description: 'Wraps the appcenter CLI to enable common commands.'
 branding:
